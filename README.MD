@@ -1,4 +1,4 @@
-<script type="text/javascript" data-app-id="APP-ID-CODE" src="https://assets.yammer.com/assets/platform_js_sdk.js"></script>
+<script type="text/javascript" data-app-id="TFAv5l4lQMmr3w8mFHQ" src="https://assets.yammer.com/assets/platform_js_sdk.js"></script>
 
 
 <div id='page'>
